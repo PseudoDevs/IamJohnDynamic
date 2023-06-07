@@ -1,0 +1,24 @@
+{
+    "name": "iamjohndev/ijd-dynamic-question",
+    "description": "A PHP library for creating dynamic questions for your evaluation system.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Lester Legaspi",
+            "email": "contact@iamjohndev.fun"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "IamJohnDynamic\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "ext-mysqli": "*"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "version": "1.0.0"
+}
