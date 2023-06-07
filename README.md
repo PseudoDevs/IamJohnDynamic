@@ -5,6 +5,7 @@ IJDynamic is a class library for generating dynamic questions and calculating to
 
 ### Installation
 You can install the IJDynamic library via Composer. Run the following command in your project directory:
+
 `composer require iamjohndev/ijdynamic
 `
 ### Usage
